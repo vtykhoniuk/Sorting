@@ -1,4 +1,4 @@
-Sorting algorithms
+# Sorting algorithms
 
 This repository contains implementation of famous sorting algorithms as well as a benchmark program to see how efficient they are.
 
@@ -10,7 +10,7 @@ Currently, the following algorithms available:
 
 Each implementation works with uint32_t type (TODO: make it more generic).
 
-Building
+## Building
 
 In order to build executable benchmark and all sorting algorithms the following command should be used:
 
